@@ -11,7 +11,7 @@ A simple Streamlit web application to chat with **Google Gemini-Pro**, a powerfu
 
 ## 📦 Requirements
 
-* Python 3.7+
+* Python 3.9+
 * Google Generative AI SDK (`google-generativeai`)
 * Streamlit
 * python-dotenv

@@ -21,7 +21,7 @@ A simple Streamlit web application to chat with **Google Gemini-Pro**, a powerfu
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/SAMUDRAGUPTA002/LLM_projects/tree/6ff5a5751184a96a3b8d71dbe38703cc7b0a8690/Gemini_chatbot
+   git clone https://github.com/SAMUDRAGUPTA002/LLM_projects.git
    ```
 
 2. **Create and activate a virtual environment (optional but recommended):**

@@ -23,7 +23,7 @@ This is a simple chatbot web app built with [Streamlit](https://streamlit.io/) t
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/SAMUDRAGUPTA002/gpt4o-chatbot.git
+git clone https://github.com/SAMUDRAGUPTA002/LLM_projects/blob/3bf4aec805427efcf14944b745058b9be3e62b1b/Gpt4.o-streamlit-chatbot/README.md
 ```
 
 ### 2. Install Dependencies

@@ -8,9 +8,14 @@ A simple chatbot built with **Streamlit** and powered by **Google Gemini-Pro** A
 - Streamlit-based interactive UI
 - Secure API key handling with `.env`
 
-## ⚙️ Setup
+(2)💬 GPT-4o ChatBot
+This is a simple chatbot web app built with Streamlit that interfaces with OpenAI's GPT-4o model to simulate a conversational assistant. Users can interact with the model directly through a clean, browser-based interface.
 
-1. **Clone the repo**  
-   ```bash
-   git clone https://github.com/SAMUDRAGUPTA002/LLM_projects.git
-   cd gemini-pro-chatbot
+🚀 Features
+🤖 Real-time conversation with GPT-4o
+
+💾 Chat history stored during the session
+
+🎨 Custom Streamlit page configuration
+
+🔐 Secure API key configuration via config.json
